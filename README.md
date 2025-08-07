@@ -1,24 +1,26 @@
-#**Overview**#
+ #Overview#  
+ 
 
-  *Data Summary and Sources* -  The folowing datasets for this project were downloaded from Kaggle:
 
-  'bird_strikes.csv'
+  *Data Summary and Sources* -  The folowing datasets for this project were downloaded from Kaggle:  
+
+  'bird_strikes.csv'  
   https://www.kaggle.com/datasets/ourwit/bird-strikes-in-aviation-aircraft-collisions
 
-  'airport.csv'
-  https://www.kaggle.com/datasets/maroofabdullah/airports-csv
+  'airport.csv'  
+  https://www.kaggle.com/datasets/maroofabdullah/airports-csv  
 
 
-  See licenses below
+  *See licenses below*
 
 
   **Technologies Used**
-  *Jupyter Notebooks* - was utilized for it's ease of collaboration, real time code execution, data manipulation and clear visualizations.
-  *Pandas* - was used for it's efficiency of data manipulation and analysis of bird strike and airport csv files.
-  *matplotlib* - provided great customizable visualizations on the data.
-  *seaborn* - another great package to provide easy to use visualizations in displaying the data.
-  *SQLite* - was utilized for this project as a requirment and for it's simplicity and easy to understand straitforward application.
-  *Various AI Tools* - Various AI tools such as Microsoft Copilot and Duck.ai for quick reference to commands needed and debugging of errors recieved when running code.
+  *Jupyter Notebooks* - was utilized for it's ease of collaboration, real time code execution, data manipulation and clear visualizations.  
+  *Pandas* - was used for it's efficiency of data manipulation and analysis of bird strike and airport csv files.  
+  *matplotlib* - provided great customizable visualizations on the data.  
+  *seaborn* - another great package to provide easy to use visualizations in displaying the data.  
+  *SQLite* - was utilized for this project as a requirment and for it's simplicity and easy to understand straitforward application.  
+  *Various AI Tools* - Various AI tools such as Microsoft Copilot and Duck.ai for quick reference to commands needed and debugging of errors recieved when running code.  
 
 
 
