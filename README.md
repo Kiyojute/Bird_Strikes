@@ -1,5 +1,21 @@
- #Overview#  
- 
+ ## Set Up ##
+  Download and install VScode: https://code.visualstudio.com/download  
+  Install Jupyter Notebook:  
+  You can browse and install extensions from within VS Code. Bring up the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of VS Code or the View: Extensions command (Ctrl+Shift+X)  
+
+Extensions view icon
+  download, install, and run your project
+
+  Setting up and running virtual environment:
+  ## Activate the virtual environment
+  *on Windows*
+  virte\Scripts\activate
+  *on macOS and Linux*
+  source virte/bin/activate
+  When setting up the project on a new system, install all dependencies using: pip install -r requirements.txt
+ Overview 
+  This project goal is to 
+
 
 
   *Data Summary and Sources* -  The folowing datasets for this project were downloaded from Kaggle:  
@@ -24,18 +40,7 @@
 
 
 
-  **Set Up**
-  Download and install VScode:
-  Jupyter Notebook ???
-  download, install, and run your project
-
-  Setting up and running virtual environment:
-  # Activate the virtual environment
-  *on Windows*
-  virte\Scripts\activate
-  *on macOS and Linux*
-  source virte/bin/activate
-  When setting up the project on a new system, install all dependencies using: pip install -r requirements.txt
+  
 
 
   *Licenses*
