@@ -48,13 +48,13 @@
   *Various AI Tools* - Various AI tools such as Microsoft Copilot and Duck.ai for quick reference to commands needed and debugging of errors recieved when running code. <br />
 
   ## Data Dictionary ## <br />
-  'bird_strikes.csv': <br />
+  *'bird_strikes.csv':* <br />
   RecordID - ID assigned by FAA <br />
   Airport - Name of airport <br />
-  MakeModel - Type of aircraft <br />
+  MakeModel - What people were flying in <br />
   Effect - Outcome of bird strike <br />
-  FlightDate - Date of Flight when strike occured <br />
-  Damage - If damage occured <br />
+  FlightDate - Date of Flight/Calamity <br />
+  Damage - If things got broken <br />
   Airline - Operator of aircraft <br />
   State - Location of airport <br />
   FlightPhase - Phase of flight strike occured <br />
@@ -64,8 +64,19 @@
   BirdSpecies - The offending birds or other wildlife we don't mention <br />
   Cost - The benjamins it takes to fix the damage <br />
   Altitude - Height the strike occured <br />
-  PeopleInjured - Whether or not people are going to sue <br />
+  PeopleInjured - Number of people going to sue <br />
+  *'airport.csv':* <br />
+  airport - Name of airport <br />
+  city - City airport is in <br />
+  country - Country airport is in <br />
+  iata - Three letter code for airport <br />
+  latitude - east-west lines on globe <br />
+  longitude - north-south lines on globe <br />
   
+
+
+
+
 
   
 
