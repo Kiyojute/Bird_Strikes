@@ -1,35 +1,43 @@
+ ## Project Objective ##  
+
+
  ## Set Up ##
   Download and install VScode: https://code.visualstudio.com/download  
-  Install Jupyter Notebook:  
-  You can browse and install extensions from within VS Code. Bring up the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of VS Code or the View: Extensions command (Ctrl+Shift+X)  
+  Install Jupyter Notebook: You can browse and install extensions such as Jupyter Notebook from within VS Code. Bring up the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of VS Code or the View: Extensions command (Ctrl+Shift+X). Search for Jupyter Notebook then select the Install button.  
 
-Extensions view icon
-  download, install, and run your project
-
-  Setting up and running virtual environment:
-  ## Activate the virtual environment
-  *on Windows*
-  virte\Scripts\activate
-  *on macOS and Linux*
+  Once you're in Jupyter Notebook in VS Code you'll need to set up and run a virtual environment.  
+  Setting up and running a virtual environment:  
+  First open up a Bash terminal by Ctrl + `` (backtick) on Windows and Linux, or Cmd + `` on macOS. This will open the integrated terminal where you can run Bash commands if Bash is set as your default shell.  
+  Activate the virtual environment by typing in the following:  
+  *on Windows*  
+  virte/Scripts/activate  
+  *on macOS and Linux*  
   source virte/bin/activate
-  When setting up the project on a new system, install all dependencies using: pip install -r requirements.txt
- Overview 
-  This project goal is to 
+  When setting up the project on a new system, install all dependencies using: pip install -r requirements.txt  
 
 
 
-  *Data Summary and Sources* -  The folowing datasets for this project were downloaded from Kaggle:  
+  ## Overview ##  
+  This project goal is to  
 
+
+  
+  
+  
+
+
+
+  *Data Summary and Sources* - The folowing datasets for this project were downloaded from Kaggle:  
+  
   'bird_strikes.csv'  
-  https://www.kaggle.com/datasets/ourwit/bird-strikes-in-aviation-aircraft-collisions
-
+  https://www.kaggle.com/datasets/ourwit/bird-strikes-in-aviation-aircraft-collisions  
+  
   'airport.csv'  
   https://www.kaggle.com/datasets/maroofabdullah/airports-csv  
+  
+  *See licenses below*  
 
-
-  *See licenses below*
-
-
+  
   **Technologies Used**
   *Jupyter Notebooks* - was utilized for it's ease of collaboration, real time code execution, data manipulation and clear visualizations.  
   *Pandas* - was used for it's efficiency of data manipulation and analysis of bird strike and airport csv files.  
