@@ -58,7 +58,15 @@
   Airline - Operator of aircraft <br />
   State - Location of airport <br />
   FlightPhase - Phase of flight strike occured <br />
+  Precipitation - To rain or not to rain <br />
+  Remarks - A human talking about the bird strike <br />
+  Clouds - See any shapes in those clouds if there are any <br />
+  BirdSpecies - The offending birds or other wildlife we don't mention <br />
+  Cost - The benjamins it takes to fix the damage <br />
+  Altitude - Height the strike occured <br />
+  PeopleInjured - Whether or not people are going to sue <br />
   
+
   
 
   **Licenses** <br />
