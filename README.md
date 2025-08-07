@@ -47,6 +47,20 @@
   *SQLite* - was utilized for this project as a requirment and for it's simplicity and easy to understand straitforward application.  
   *Various AI Tools* - Various AI tools such as Microsoft Copilot and Duck.ai for quick reference to commands needed and debugging of errors recieved when running code. <br />
 
+  ## Data Dictionary ## <br />
+  'bird_strikes.csv': <br />
+  RecordID - ID assigned by FAA <br />
+  Airport - Name of airport <br />
+  MakeModel - Type of aircraft <br />
+  Effect - Outcome of bird strike <br />
+  FlightDate - Date of Flight when strike occured <br />
+  Damage - If damage occured <br />
+  Airline - Operator of aircraft <br />
+  State - Location of airport <br />
+  FlightPhase - Phase of flight strike occured <br />
+  
+  
+
   **Licenses** <br />
   'bird_strikes.csv': MIT - https://www.mit.edu/~amini/LICENSE.md <br />
   'airport.csv': CC0: Public Domain - https://creativecommons.org/publicdomain/zero/1.0/
