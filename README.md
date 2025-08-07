@@ -19,16 +19,10 @@
 
 
   ## Overview ##  
-  This project goal is to  
+  What you should expect from this project once it's running is for it to run flawlessly with no hiccups, catastrophic crashes or dumpster fire shutdowns. Translation: 60% of the time, it works every time.
 
 
-  
-  
-  
-
-
-
-  *Data Summary and Sources* - The folowing datasets for this project were downloaded from Kaggle:  
+  *Data Summary/Sources* - The folowing datasets for this project were downloaded from Kaggle:  
   
   'bird_strikes.csv'  
   https://www.kaggle.com/datasets/ourwit/bird-strikes-in-aviation-aircraft-collisions  
@@ -59,7 +53,7 @@
   State - Location of airport <br />
   FlightPhase - Phase of flight strike occured <br />
   Precipitation - To rain or not to rain <br />
-  Remarks - A human talking about the bird strike <br />
+  Remarks - A human commenting about the bird strike <br />
   Clouds - See any shapes in those clouds if there are any <br />
   BirdSpecies - The offending birds or other wildlife we don't mention <br />
   Cost - The benjamins it takes to fix the damage <br />
@@ -72,13 +66,7 @@
   iata - Three letter code for airport <br />
   latitude - east-west lines on globe <br />
   longitude - north-south lines on globe <br />
-  
-
-
-
-
-
-  
+    
 
   **Licenses** <br />
   'bird_strikes.csv': MIT - https://www.mit.edu/~amini/LICENSE.md <br />
