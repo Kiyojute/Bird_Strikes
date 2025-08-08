@@ -1,4 +1,5 @@
- ## Project Objective ##  
+ ## Project Objective ## <br />
+ The   
 
 
  ## Set Up ##
@@ -22,12 +23,12 @@
   What you should expect from this project once it's running is for it to run flawlessly with no hiccups, catastrophic crashes or dumpster fire shutdowns. Translation: 60% of the time, it works every time.
 
 
-  *Data Summary/Sources* - The folowing datasets for this project were downloaded from Kaggle:  
+  **Data Summary/Sources** - The folowing datasets for this project were downloaded from Kaggle:  
   
-  'bird_strikes.csv'  
+  'bird_strikes.csv'  - 26 columns 25429 rows <br /> 
   https://www.kaggle.com/datasets/ourwit/bird-strikes-in-aviation-aircraft-collisions  
   
-  'airport.csv'  
+  'airport.csv'  - 14 columns 7698 rows <br /> 
   https://www.kaggle.com/datasets/maroofabdullah/airports-csv  
   
   *See licenses below*  
@@ -41,7 +42,7 @@
   *SQLite* - was utilized for this project as a requirment and for it's simplicity and easy to understand straitforward application.  
   *Various AI Tools* - Various AI tools such as Microsoft Copilot and Duck.ai for quick reference to commands needed and debugging of errors recieved when running code. <br />
 
-  ## Data Dictionary ## <br />
+  ## Data Dictionary <br />
   *'bird_strikes.csv':* <br />
   RecordID - ID assigned by FAA <br />
   Airport - Name of airport <br />
@@ -52,20 +53,20 @@
   Airline - Operator of aircraft <br />
   State - Location of airport <br />
   FlightPhase - Phase of flight strike occured <br />
-  Precipitation - To rain or not to rain <br />
+  Precipitation - To rain or not to rain that is the question <br />
   Remarks - A human commenting about the bird strike <br />
-  Clouds - See any shapes in those clouds if there are any <br />
-  BirdSpecies - The offending birds or other wildlife we don't mention <br />
+  Clouds - Clouds or not <br />
+  BirdSpecies - The offending birds or other wildlife who must not be named <br />
   Cost - The benjamins it takes to fix the damage <br />
-  Altitude - Height the strike occured <br />
-  PeopleInjured - Number of people going to sue <br />
+  Altitude - Height in sky the strike occured <br />
+  PeopleInjured - Number of people going to lawyer up and sue <br />
   *'airport.csv':* <br />
   airport - Name of airport <br />
-  city - City airport is in <br />
-  country - Country airport is in <br />
+  city - City airport located in <br />
+  country - Country airport located in <br />
   iata - Three letter code for airport <br />
-  latitude - east-west lines on globe <br />
-  longitude - north-south lines on globe <br />
+  latitude - East-west lines on globe <br />
+  longitude - North-south lines on globe <br />
     
 
   **Licenses** <br />
