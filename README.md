@@ -1,5 +1,5 @@
- ## Project Objective ## <br />
- The   
+ ## Project Objective <br />
+ Analyze data from the FAA (Federal Aviation Administration) for the years of 2019 to 2024 involving various bird strikes on airplanes. After analyzing the data I hope to provide insight into the conditions these strikes most likely occur, conditions as in airlines involved, phase of flight, altitude strike occurred at, etc.. Theoretically these results could be use to identify problem areas that need to be addressed and/or mitigated. Bird strikes cost airlines, airline customers and private individuals countless dollars in damages and lost time yearly not to mention wildlife that are struck and killed.    
 
 
  ## Set Up ##
@@ -34,7 +34,7 @@
   *See licenses below*  
 
 
-  **Technologies Used**
+  **Technologies Used** <br />
   *Jupyter Notebooks* - was utilized for it's ease of collaboration, real time code execution, data manipulation and clear visualizations.  
   *Pandas* - was used for it's efficiency of data manipulation and analysis of bird strike and airport csv files.  
   *matplotlib* - provided great customizable visualizations on the data.  
